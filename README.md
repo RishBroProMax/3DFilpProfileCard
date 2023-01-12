@@ -3,4 +3,4 @@
 
 <img scr= "https://telegra.ph/file/a63fb61b95534454a38a1.png">
 
-<a href="https://htmlpreview.github.io/?https://github.com/RishBropromax/3DFilpProfileCard/blob/main/index.html"> <img src="https://telegra.ph/file/a63fb61b95534454a38a1.png" alt="Click To Go Our Web"> </a>
+<a href="https://htmlpreview.github.io/?https://github.com/RishBropromax/3DFilpProfileCard/blob/main/index.html">Go Now</a>
